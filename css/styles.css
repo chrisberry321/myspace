@@ -1,0 +1,42 @@
+.thumbnail {
+float: left;
+width: 200px;
+border: 1px solid #999;
+margin: 0px 15px 15px 0;
+padding: 5px;
+text-align: center;
+color: blue;
+}
+/*p{
+  color:blue;
+}*/
+
+.clearboth { clear: both; }
+
+.container {
+  border: 8px solid #FFD875;
+}
+
+.header {
+    height:50px;
+    background:#FFD875;
+    border:1px solid #FFD875;
+    width:100;
+    margin:0px auto;
+    padding-left: 13px;
+    : #DE8A4B;
+}
+h2  {
+  color: #DE8A4B;
+}
+h4 {
+  float: right;
+  color: red;
+}
+.red {
+  color: red;
+}
+
+.content {
+  padding-left: 40px;
+}
